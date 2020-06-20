@@ -1,4 +1,4 @@
-# newstant
+# Newstant
 
 A new Flutter project.
 
